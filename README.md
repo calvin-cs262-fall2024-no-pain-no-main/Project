@@ -1,2 +1,4 @@
 # Project
-This repo will hold project deliverables due for each sprint
+Vision statement:
+
+For anyone looking to enhance their workout experience, it's often the case that while workout routines and methods are emphasized, the importance of rest, the proper resting time, and how to use it effectively are overlooked. Our app is designed for those who want a more engaging and productive approach to rest periods between sets. By seamlessly blending structured workout plans with interactive, entertaining, and educational recovery moments, our app transforms traditional exercise routines into an enjoyable adventure. Unlike standard fitness apps that treat rest as just another timer, our app keeps users engaged and motivated during downtime with games, quizzes, and expert tips, making every second of the workout a productive and enjoyable experience. These activities will be designed to structure the downtime of workouts so that users can optimize and stay motivated throughout the workout. The app can also be used to plan out a routine and provide ideas for exercises that users can do, as well as give more information about why doing an exercise is beneficial.
