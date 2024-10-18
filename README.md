@@ -1,4 +1,4 @@
-#no-pain-no-main Project repo - fitness app
+# no-pain-no-main Project repo - fitness app
 
 Vision statement:
 
@@ -8,21 +8,21 @@ Unlike standard fitness apps that treat rest as just another timer, our app aims
 
 Our team is comprised of the following members, alphabetized by last name:
 
-*Tim David
-*David Kim
-*Ben Kosters
-*Zach Redder
-*Kaleb Rietman
-*Brady Swiech
+* Tim David
+* David Kim
+* Ben Kosters
+* Zach Redder
+* Kaleb Rietman
+* Brady Swiech
 
-##Client
+## Client
 Our Client repo, which contains our front-end code, can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Client/blob/main).
 
-##Service
-Our Service repo, which will eventually contain our back-end code, can be found [here] (https://github.com/calvin-cs262-fall2024-no-pain-no-main/Service)
+## Service
+Our Service repo, which will eventually contain our back-end code, can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Service)
 
-##Trello
+## Trello
 Our trello board can be found [here](https://trello.com/b/XEyzFmYX/no-pain-no-main)
 
-##Domain Model
+## Domain Model
 Our domain model can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Project/blob/domain-model/Domain%20Model.jpg)
