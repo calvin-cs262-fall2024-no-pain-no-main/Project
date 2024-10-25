@@ -1,6 +1,7 @@
-# Project: Guym Buddy 
-(image)[https://github.com/calvin-cs262-fall2024-no-pain-no-main/Client/blob/main/assets/images/gym-buddy.png]
-## Team: No Pain No Pain 
+# Project: Gym Buddy
+![Gym Buddy](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Client/blob/main/assets/images/gym-buddy.png)
+
+## Team: No Pain No Gain
 
 ## Overview
 
@@ -28,8 +29,5 @@ This approach ensures that every moment spent resting is both productive and enj
 
 Adequate rest is crucial for muscle growth and overall strength development. Our app helps users avoid distractions that can lead to ineffective rest periods. While many fitness apps provide workout suggestions or timers, few integrate these aspects seamlessly. 
 
-## Conclusion
 
-Our solution stands out by harmonizing workout structure and recovery engagement, thereby maintaining user focus and enhancing the overall workout experience.
-
-- **Design Model:** [Design Specification](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Project/blob/davidkim/images/UI-Model.jpg)
+**Design Model:** [Design Specification](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Project/blob/davidkim/images/UI-Model.jpg)
