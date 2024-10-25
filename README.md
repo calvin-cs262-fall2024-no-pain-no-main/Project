@@ -13,4 +13,4 @@ Unlike standard fitness apps that merely time rest intervals, our application ac
 
 Adequate rest is crucial for muscle growth and overall strength development, and our app helps users avoid distractions that can lead to ineffective rest periods. While many fitness apps provide workout suggestions or timers, few integrate these aspects seamlessly. Our solution stands out by harmonizing workout structure and recovery engagement, thereby maintaining user focus and enhancing the overall workout experience.
 
-- **Design Model:** [Design Specification](link)
+- **Design Model:** [Design Specification]((https://github.com/calvin-cs262-fall2024-no-pain-no-main/Project/blob/davidkim/images/UI-Model.jpg))
