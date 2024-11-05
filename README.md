@@ -1,4 +1,4 @@
-# no-pain-no-main Project: Revie
+# no-pain-no-main Project: Revive
 ![Gym Buddy](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Client/blob/main/assets/images/gym-buddy.png)
 
 ## Team: No Pain No Gain!
