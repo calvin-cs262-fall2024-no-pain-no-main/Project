@@ -1,5 +1,5 @@
 # no-pain-no-main Project: VIGIL fitness app
-![vigil](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Project/blob/david/images/images/VIGIL.png)
+![vigil](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/images/VIGIL.png)
 
 ## Team: No Pain No Gain!
 
