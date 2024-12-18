@@ -33,13 +33,13 @@ Our Client repo, which contains our front-end code, can be found [here](https://
 Our Service repo, which contains our back-end code, can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Service)
 
 ## Domain Model
-Our domain model can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/Project/blob/domain-model/Domain%20Model.jpg)
+Our domain model can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/images/DomainModel.png)
 
 ## UI Model
 Our UI model can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/images/UI%20Model.png).
 
 ## Deployment Model
-We do not have a deployment model yet, but it will be [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUjbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAgcmljayBhc3RsZXk%3D).
+We do not have a deployment model yet, but it will be [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/images/DeploymentDiagram.png).
 
 ## User Test Script
 Our user test script is located [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/documents/UserTestReport.md).
