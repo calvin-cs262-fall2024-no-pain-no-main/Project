@@ -39,7 +39,7 @@ Our domain model can be found [here](https://github.com/calvin-cs262-fall2024-no
 Our UI model can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/images/UI%20Model.png).
 
 ## Deployment Model
-We do not have a deployment model yet, but it will be [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/images/DeploymentDiagram.png).
+Our deployment model is located [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/images/DeploymentDiagram.png).
 
 ## User Test Script
 Our user test script is located [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/documents/UserTestReport.md).
