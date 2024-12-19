@@ -46,3 +46,6 @@ Our user test script is located [here](https://github.com/calvin-cs262-fall2024-
 
 ## User Test Report
 The results of what we found from our user test can be found [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/documents/UserTestScript.docx).
+
+## Final Presentation Slides
+Our final presentation slides are located [here](https://github.com/calvin-cs262-fall2024-no-pain-no-main/no-pain-no-main-project/blob/main/Final%20Presentation.pdf)
